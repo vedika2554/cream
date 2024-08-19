@@ -1,0 +1,18 @@
+.nav{
+    background-color:lightblue;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding:  10px;
+}
+.bn{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 200px;
+
+}
+.nl{
+    color: black;
+    margin:0  20px;
+}
